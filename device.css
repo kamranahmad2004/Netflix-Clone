@@ -447,6 +447,10 @@
         margin-bottom: 0;
     }
 
+    #questions .set{
+        padding: 15px 8px;
+    }
+
     #questions .wrappers{
         width: 100%;
     }
