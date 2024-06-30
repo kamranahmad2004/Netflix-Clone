@@ -5,10 +5,10 @@ This project is a Netflix clone created using HTML, CSS, and JavaScript. It aims
 The project includes various features such as:
 
 Features::
-1- Landing Page: A visually appealing landing page similar to Netflix's homepage, showcasing popular content, trending shows, and movies.
-2- Navigation Bar: A responsive navigation bar providing easy access to different sections of the website such as Home, login page.
-3- Responsive Design: Ensures seamless user experience across different screen sizes, including desktops, tablets, and smartphones.
-4- Interactive Elements: Incorporates interactive elements such as hover effects and clickable thumbnails to enhance user engagement.
+- Landing Page: A visually appealing landing page similar to Netflix's homepage, showcasing popular content, trending shows, and movies.
+- Navigation Bar: A responsive navigation bar providing easy access to different sections of the website such as Home, login page.
+- Responsive Design: Ensures seamless user experience across different screen sizes, including desktops, tablets, and smartphones.
+- Interactive Elements: Incorporates interactive elements such as hover effects and clickable thumbnails to enhance user engagement.
 
 Technologies Used::
 - HTML: Used for structuring the content and layout of the web pages.
